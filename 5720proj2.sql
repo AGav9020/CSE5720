@@ -1,9 +1,3 @@
-/*
-After talking with Jin, she said it was an issue with Pycharm itself on how it's allowing the queries.
-She said to turn this in to receive credit. I'm also turning in the python file itself as documented proof, as well as my "scratch" SQL file.
-*/
-
-
 use cse5720proj2;
 /*
 # In table “publisher”, there is already some data: A list of publisher IDs, names,
